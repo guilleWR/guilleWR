@@ -2,6 +2,8 @@
 
 Software Engineering graduate from the University of Málaga, focused on backend development.
 
+Professional experience in backend development with Python, FastAPI and REST APIs at NTT DATA.
+
 ## Core Technologies
 
 <table>
@@ -29,7 +31,7 @@ Software Engineering graduate from the University of Málaga, focused on backend
   </tr>
 </table>
 
-## Additional Technologies
+## Other Technologies
 
 MongoDB · MySQL · GitLab · C# · Unity · LangChain · Spring Boot · SQL · REST APIs
 
