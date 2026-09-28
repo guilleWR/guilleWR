@@ -1,16 +1,38 @@
-## Hi there 👋
+# Guillermo Westerhof
 
-<!--
-**guilleWR/guilleWR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering graduate from the University of Málaga, focused on backend development.
 
-Here are some ideas to get you started:
+## Core Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="56" height="56" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="56" height="56" alt="Java" /><br>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="56" height="56" alt="FastAPI" /><br>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="56" height="56" alt="Postman" /><br>
+      <sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="56" height="56" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
+## Additional Technologies
+
+MongoDB · MySQL · GitLab · C# · Unity · LangChain · Spring Boot · SQL · REST APIs
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/guillermo-westerhof/)
